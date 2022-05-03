@@ -1,0 +1,13 @@
+
+mkdir: cria pasta
+ls: lista arquivos
+ls -a: arquivos ocultos
+ctrl+L: limpa o comando
+cd: entra na pasta
+cd .. : volta níveis
+git commit  -m “commit inicial”: criando commit inicial 
+git status
+mv: mover
+echo > : cria arquivo
+git add * : tudo que foi modificado e adiciona para staged
+git clone : clonar codigo
